@@ -1,12 +1,12 @@
 CLASS1 : Effect Type
 9: Version
-Working hard (Yanguara)
+Science - Researching (Quanzyllyumarrya)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+38: Main 0
+64: Main 1
 0: Main 2
-0: Main 3
+25: Main 3
 64: Main 4
 64: Main 5
 0: Element Number
@@ -37,25 +37,25 @@ Band 2
    4: Boost/Cut
 Band 3
    158: CF
-   6: Boost/Cut
+   0: Boost/Cut
 Band 4
    293: CF
-   -3: Boost/Cut
+   -4: Boost/Cut
 Band 5
-   541: CF
-   4: Boost/Cut
+   1000: CF
+   -8: Boost/Cut
 Band 6
-   1010: CF
-   7: Boost/Cut
+   1852: CF
+   -12: Boost/Cut
 Band 7
    1862: CF
-   4: Boost/Cut
+   -3: Boost/Cut
 Band 8
-   3439: CF
-   3: Boost/Cut
-Band 9
-   6360: CF
+   6350: CF
    0: Boost/Cut
+Band 9
+   11758: CF
+   3: Boost/Cut
 Band 10
-   11768: CF
-   -6: Boost/Cut
+   16000: CF
+   3: Boost/Cut
