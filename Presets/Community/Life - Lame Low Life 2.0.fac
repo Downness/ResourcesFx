@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Working hard (Yanguara)
+Life - Lame Low Life 2.0
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+13: Main 0
+38: Main 1
 0: Main 2
 0: Main 3
-64: Main 4
+127: Main 4
 64: Main 5
 0: Element Number
    0: Param 0
@@ -34,28 +34,28 @@ Band 1
    5.03937: Boost/Cut
 Band 2
    86: CF
-   4: Boost/Cut
+   9: Boost/Cut
 Band 3
    158: CF
-   6: Boost/Cut
+   9: Boost/Cut
 Band 4
-   293: CF
-   -3: Boost/Cut
+   540: CF
+   -9: Boost/Cut
 Band 5
-   541: CF
-   4: Boost/Cut
-Band 6
-   1010: CF
-   7: Boost/Cut
-Band 7
-   1862: CF
-   4: Boost/Cut
-Band 8
-   3439: CF
+   619.03: CF
    3: Boost/Cut
+Band 6
+   1178.4: CF
+   3: Boost/Cut
+Band 7
+   2191.07: CF
+   3: Boost/Cut
+Band 8
+   5767.8: CF
+   -9: Boost/Cut
 Band 9
-   6360: CF
-   0: Boost/Cut
+   10894.3: CF
+   -9: Boost/Cut
 Band 10
-   11768: CF
-   -6: Boost/Cut
+   15195.9: CF
+   -9: Boost/Cut

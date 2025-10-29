@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-Working hard (Yanguara)
+Life - Extra Life Chemistry (Oscarlanotasarryya)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+13: Main 0
+76: Main 1
 0: Main 2
-0: Main 3
-64: Main 4
-64: Main 5
+102: Main 3
+38: Main 4
+38: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Working hard (Yanguara)
 1: On/Off Flag
 Band 1
    62.5: CF
-   5.03937: Boost/Cut
+   2.99213: Boost/Cut
 Band 2
-   86: CF
-   4: Boost/Cut
+   142.8: CF
+   5: Boost/Cut
 Band 3
-   158: CF
-   6: Boost/Cut
+   261.18: CF
+   5: Boost/Cut
 Band 4
-   293: CF
-   -3: Boost/Cut
+   493.07: CF
+   5: Boost/Cut
 Band 5
-   541: CF
-   4: Boost/Cut
+   632.8: CF
+   -7: Boost/Cut
 Band 6
-   1010: CF
-   7: Boost/Cut
+   1161.56: CF
+   -7: Boost/Cut
 Band 7
    1862: CF
-   4: Boost/Cut
+   5: Boost/Cut
 Band 8
-   3439: CF
-   3: Boost/Cut
+   3962.98: CF
+   -7: Boost/Cut
 Band 9
-   6360: CF
-   0: Boost/Cut
+   11758: CF
+   5: Boost/Cut
 Band 10
-   11768: CF
-   -6: Boost/Cut
+   16000: CF
+   5: Boost/Cut

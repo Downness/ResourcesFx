@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Working hard (Yanguara)
+Beings - On Dezzymestan
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+13: Main 0
+38: Main 1
 0: Main 2
-0: Main 3
-64: Main 4
+13: Main 3
+127: Main 4
 64: Main 5
 0: Element Number
    0: Param 0
@@ -22,7 +22,7 @@ Working hard (Yanguara)
 0: Number of Application Dependent Strings
 1: Integer[0]
 1: Integer[1]
-1: Integer[2]
+0: Integer[2]
 1: Integer[3]
 1: Integer[4]
 0: Integer[5]
@@ -33,29 +33,29 @@ Band 1
    62.5: CF
    5.03937: Boost/Cut
 Band 2
-   86: CF
+   157: CF
    4: Boost/Cut
 Band 3
-   158: CF
-   6: Boost/Cut
+   292: CF
+   4: Boost/Cut
 Band 4
-   293: CF
-   -3: Boost/Cut
+   540: CF
+   4: Boost/Cut
 Band 5
-   541: CF
-   4: Boost/Cut
-Band 6
-   1010: CF
-   7: Boost/Cut
-Band 7
-   1862: CF
-   4: Boost/Cut
-Band 8
-   3439: CF
-   3: Boost/Cut
-Band 9
-   6360: CF
-   0: Boost/Cut
-Band 10
-   11768: CF
+   903.61: CF
    -6: Boost/Cut
+Band 6
+   1700.44: CF
+   -6: Boost/Cut
+Band 7
+   3429: CF
+   0: Boost/Cut
+Band 8
+   6350: CF
+   0: Boost/Cut
+Band 9
+   8951.04: CF
+   4: Boost/Cut
+Band 10
+   13884: CF
+   4: Boost/Cut
