@@ -35,6 +35,7 @@ countries: nl be
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Verbreedt de balans tussen links en rechts\r\nvoor een uitgestrekt, breed geluid"
 "Increases overall volume and balance\r\nwith responsive processing" = "Verhoogt het totale volume en balans\r\nmet responsieve verwerking"
 "Boosts low end for full,\r\nimpactful response" = "Verhoogt low-end voor een volle,\r\nindrukwekkende reactie"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hyper-lage bas – Eerste band voor zeer lage frequenties tot 20 Hz."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Superlage bas. Verhoog dit voor meer brommen en "bonken", verlaag het bij teveel dreun."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Centrum van het basgeluid. Verhoog dit voor een vollere lage tonen, verlaag het als de bas overweldigend klinkt.."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "De lage kant van je middenklasse. Verhoog dit om vocale geluiden rijk en warm te laten klinken, verlaag het om instrumenten die luid en gedempt klinken te helpen beheersen.."

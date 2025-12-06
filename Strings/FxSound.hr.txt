@@ -35,6 +35,7 @@ countries: HR
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Proširuje lijevo-desni balans\r\nza proširivi, širok zvuk"
 "Increases overall volume and balance\r\nwith responsive processing" = "Pojačava ukupni volumen i balans\r\nsa responzivnim procesiranjem"
 "Boosts low end for full,\r\nimpactful response" = "Pojačava nižu razinu za puni,\r\nutjecajni odgovor"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hiperniski bas - Prva traka za vrlo niske frekvencije do 20 Hz."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Super-niski Bas. Pojačajte ovo za više tutnjave i \"udarca\", smanjite ako ima previše\'s udaranja."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Center Bas zvuka. Pojačajte ovo za puniji niži kraj, smanjite ako su zvukovi basa nadmoćni."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Niži kraj srednjeg-raspona. Pojačajte ovo da glas zvuči bogato i toplo, smanjite da pomogne kontrolirati instrumente koji zvuče glasno a prigušeno."

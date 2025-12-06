@@ -35,6 +35,7 @@ countries: ja
 "Widens the left-right balance\r\nfor expansive, wide sound" = "左右のバランスを広げて、幅広いサウンドを実現します"
 "Increases overall volume and balance\r\nwith responsive processing" = "全体の音量とバランスを向上させ、反応性のある処理を行います"
 "Boosts low end for full,\r\nimpactful response" = "低音を強化して、フルで効果的な応答を得ます"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "ハイパーロー・ベース ― 20Hzまでの超低周波用の最初のバンドです。"
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "超低音のベース。これを増やすと、より多くの轟音と「どんと」が得られます。ブーミーな音があまりにも多い場合は減少させます。"
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "ベースサウンドの中心。これを増やすと、より豊かな低音が得られ、ベースが圧倒的な場合は減少させます。"
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "中音域の低音。これを増やすとボーカルが豊かで暖かく聞こえ、減少させると大きくてぼやけた楽器をコントロールできます。"

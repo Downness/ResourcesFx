@@ -35,6 +35,7 @@ countries: ar co es mx
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Amplía el equilibrio izquierda-derecha\r\npara un sonido amplio y expansivo"
 "Increases overall volume and balance\r\nwith responsive processing" = "Aumenta el volumen general y el equilibrio.\r\ncon procesamiento receptivo"
 "Boosts low end for full,\r\nimpactful response" = "Realza el extremo inferior por completo,\r\nrespuesta impactante"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hiperbajos - Primera banda para frecuencias muy bajas hasta 20 Hz."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Graves profundos. Aumente para más retumbo y \"golpe\", disminuya si hay resonancia excesiva."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Centro de su sonido de Bajos. Aumente esto para un bajo más pleno, disminúyalo si suena abrumador."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "El extremo inferior de su gama media. Aumente esto para hacer que las voces suenen ricas y calidas, disminúyalo para ayudar a controlar los instrumentos que suenan fuertes y apagados."

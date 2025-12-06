@@ -35,6 +35,7 @@ countries: fr
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Élargit la balance gauche-droite\r\npour un son expansif et large"
 "Increases overall volume and balance\r\nwith responsive processing" = "Augmente le volume global et l’équilibre\r\navec un traitement réactif"
 "Boosts low end for full,\r\nimpactful response" = "Amplifie le bas de gamme pour le plein,\r\nréponse percutante"
+"Hyper-low Bass - First band for very basses fréquences down to 20 Hz." = "Ultra-basses - Première bande pour les très basses fréquences jusqu’à 20 Hz."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Basses ultra-basses. Augmentez-le pour plus de bruit et de “coup”, diminuez-le s’il y a trop de boum."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Centre de votre son de basse. Augmentez-le pour des basses plus pleines, baissez-le si cela semble écrasant."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Bas de gamme de votre milieu de gamme. Augmentez-le pour rendre les voix riches et chaleureuses, diminuez-le pour contrôler les instruments qui sonnent fort et étouffés."

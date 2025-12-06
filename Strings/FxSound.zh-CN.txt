@@ -34,6 +34,7 @@ countries: cn sg
 "Widens the left-right balance\r\nfor expansive, wide sound" = "扩大左右平衡以获得\r\n广阔、宽广的声音"
 "Increases overall volume and balance\r\nwith responsive processing" = "通过响应式处理增加\r\n整体音量和平衡"
 "Boosts low end for full,\r\nimpactful response" = "提升低音以实现全面、\r\n有影响力的响应"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "超低频低音 —— 第一个用于极低频率（低至 20 Hz）的频段。"
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "超低音。增加这个以获得更多的隆隆声和“砰砰声”，如果有太多的隆隆声则减少。"
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "低音。增加这个以获得更完整的低端，如果低音听起来很强烈，则减少。"
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "中音低端。增加它可以使人声听起来丰富而温暖，减少它以帮助控制听起来响亮而闷闷的乐器。"

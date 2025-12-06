@@ -35,6 +35,7 @@ countries: ro
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Mărește echilibrul stânga-dreapta\r\npentru un sunet extins și larg"
 "Increases overall volume and balance\r\nwith responsive processing" = "Crește volumul și echilibrul general\r\ncu procesare receptivă"
 "Boosts low end for full,\r\nimpactful response" = "Îmbunătățește gama joasă la maxim,\r\nrăspuns de impact"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Bas hiper-jos – Prima bandă pentru frecvențe foarte joase până la 20 Hz."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Bas super-scăzut. Măriți acest lucru pentru mai mult zgomot și „thump”, micșorați dacă există prea multă boom."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Centrul sunetului dvs. de bas. Măriți acest lucru pentru un nivel scăzut mai complet, reduceți dacă basul sună copleșitor."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Partea de jos a gamei medii. Măriți-l pentru a face vocea să sune bogat și cald, micșorați-l pentru a ajuta la controlul instrumentelor care sună tare și înăbușit."

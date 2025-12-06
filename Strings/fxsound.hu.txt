@@ -35,6 +35,7 @@ countries: hu
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Kiterjeszti a bal-jobb egyensúlyt\r\na tágas, széles hangzásért."
 "Increases overall volume and balance\r\nwith responsive processing" = "Növeli az általános hangerőt és az egyensúlyt\r\naz érzékeny feldolgozás révén"
 "Boosts low end for full,\r\nimpactful response" = "Megnöveli a mélyhangokat a teljes,\r\nerőteljes hangzás érdekében."
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hiperszintű mélybasszus – Az első sáv a nagyon alacsony frekvenciákhoz, egészen 20 Hz-ig."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Szuper alacsony basszus. Növelje ezt a hangerőt, ha több dübörgést és "puffogás"-t szeretne, csökkentse, ha túl sok a dübörgés.."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "A basszus hangzás központja. Növelje ezt az értéket a teltebb mélyhangok érdekében, csökkentse, ha a basszus túlságosan nyomasztóan hangzik."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "A középtartomány alsó határa. Növelje ezt, hogy a ének hangzása gazdag és meleg legyen, csökkentse, hogy segítsen a hangosan és tompán hangzó hangszerek szabályozásában."

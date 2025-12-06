@@ -35,6 +35,7 @@ countries: vn
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Mở rộng sự cân bằng trái-phải\r\ncho âm thanh"
 "Increases overall volume and balance\r\nwith responsive processing" = "Tăng âm lượng tổng thể và sự cân bằng"
 "Boosts low end for full,\r\nimpactful response" = "Tăng cường và làm dày âm trầm,\r\ncho tiếng bass sâu hơn"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Bass siêu thấp – Dải đầu tiên dành cho tần số rất thấp xuống đến 20 Hz."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Âm bass siêu trầm. Tăng giá trị này để có nhiều tiếng ầm ầm và \"thình thịch\", giảm nếu quá ồn hoặc âm thanh bị rè."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Âm bass dải trung. Tăng mức này để có âm trầm đầy đủ hơn, giảm nếu âm trầm quá lớn."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Cấp thấp nhất của dải âm mid. Tăng giá trị này để làm cho giọng hát trở nên dày và ấm, giảm giá trị này để giúp kiểm soát các nhạc cụ phát ra âm thanh lớn và bị nghẹt."
