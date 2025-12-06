@@ -36,6 +36,7 @@ countries: de at ch
 "Increases overall volume and balance\r\nwith responsive processing" = "Erhöht die Gesamtlautstärke und -balance\r\nmit reaktionsschneller Verarbeitung"
 "Boosts low end for full,\r\nimpactful response" = "Verstärkt das tiefe Ende für einen vollen,\r\ndruckvollen Klang"
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Super-Tiefbass. Erhöhen Sie diesen Wert für mehr Rumpeln und “Dröhnen”, verringern Sie ihn, wenn es zu sehr dröhnt."
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hyper-Low-Bass – Erstes Band für sehr niedrige Frequenzen bis hinunter zu 20 Hz."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Mitte des Bass-Sounds. Erhöhen Sie diesen Wert für ein volleres tiefes Ende, verringern Sie ihn, wenn der Bass überwältigend klingt."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Das tiefe Ende des Mitteltonbereichs. Erhöhen Sie diesen Wert, um Stimmen satt und warm klingen zu lassen, verringern Sie ihn, um Instrumente zu kontrollieren, die laut und dumpf klingen."
 "A focal point of the low-mid-range. Increase this to bring out electric guitars and vocal volume, decrease it to reduce any \"boxy\" tones." = "Ein Brennpunkt des Tief-Mitteltonbereichs. Erhöhen Sie diesen Wert, um E-Gitarren und Gesang hervorzuheben, verringern Sie ihn, um “kastenförmige” Töne zu reduzieren."

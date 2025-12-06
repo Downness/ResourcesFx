@@ -35,6 +35,7 @@ countries: tr
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Geniş ses için sol-sağ \r\ndengesini genişletir"
 "Increases overall volume and balance\r\nwith responsive processing" = "Duyarlı işleme ile genel hacmi ve \r\ndengeyi artırır."
 "Boosts low end for full,\r\nimpactful response" = "Tam, etkili yanıt için \r\nalt seviyeyi artırır."
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hiper-düşük bas – Çok düşük frekanslar için ilk bant, 20 Hz’e kadar."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Süper-Düşük Bas. Daha fazla gürleme ve \"gümleme\" için bunu artırın, çok fazla patlama varsa azaltın. "
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Bas sesinizin merkezi. Daha dolgun bir alt-uç için bunu artırın, bas ezici geliyorsa azaltın."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Orta seviyenizin alt sınırı. Vokallerin zengin ve sıcak olmasını sağlamak için bunu artırın. Yüksek ve boğuk ses çıkaran enstrümanları kontrol için azaltın. "

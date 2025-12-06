@@ -35,6 +35,7 @@ countries: [IR, FA]
 "Widens the left-right balance\r\nfor expansive, wide sound" = "تعادل چپ-راست را برای صدای گسترده‌تر افزایش می‌دهد."
 "Increases overall volume and balance\r\nwith responsive processing" = "حجم کلی و تعادل صدا را با پردازش واکنش‌گرا افزایش می‌دهد."
 "Boosts low end for full,\r\nimpactful response" = "بیس پایین را برای پاسخگویی کامل و قوی افزایش می‌دهد."
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "بیس فوق‌العاده پایین - اولین باند برای فرکانس‌های بسیار پایین تا ۲۰ هرتز."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "بیس فوق‌العاده پایین. این مقدار را برای بیس قوی‌تر افزایش دهید و در صورت افزایش بیش از حد کاهش دهید."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "مرکز صدای بیس شما. این مقدار را برای بیس پرتر افزایش دهید و در صورت زیاد بودن کاهش دهید."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "انتهای پایین بازه میانه. این مقدار را برای صدای غنی‌تر و گرم‌تر افزایش دهید و برای کنترل سازهای بلند و خفه کاهش دهید."

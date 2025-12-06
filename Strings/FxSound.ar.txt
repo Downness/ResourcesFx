@@ -35,6 +35,7 @@ countries: EG sa
 "Widens the left-right balance\r\nfor expansive, wide sound" = "يعمل على توسيع/تضخيم التوازن بين اليسار واليمين\r\nللحصول على صوت متوازن "
 "Increases overall volume and balance\r\nwith responsive processing" = "يزيد الحجم الإجمالي والتوازن\r\nمن خلال سرعة المعالجة للاستجابة"
 "Boosts low end for full,\r\nimpactful response" = "عزز في النهاية المنخفضة للحصول على استجابة مؤثرة\r\n"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "الجهير فائق الانخفاض - أول نطاق للترددات المنخفضة جدًا حتى 20 هرتز."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "صوت عميق ومنخفض للغاية. قم بزيادة هذا للمزيد من الهمهمات أو \"thump\", قلل إذا كان هناك الكثير من النشاط."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "توسيط عمق الصوت الخاص بك. قم بزيادة هذا للحصول على نهاية منخفضة أفضل، وقم بتقليله إذا كان صوت المتحدث قويًا."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "الحد الأدنى من المدى المتوسط الخاص بك. قم بزيادة هذا لجعل الصوت يبدو غنيًا ودافئًا، وقم بتقليله للمساعدة في التحكم في الآلات التي تصدر صوتًا مرتفعًا ومكتومًا."

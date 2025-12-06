@@ -36,6 +36,7 @@ countries: id
 "Increases overall volume and balance\r\nwith responsive processing" = "Meningkatkan volume dan keseimbangan \r\nkeseluruhan dengan pemrosesan responsif"
 "Boosts low end for full,\r\nimpactful response" = "Meningkatkan frekuensi rendah\r\nuntuk dampak yang penuh dan responsif"
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Bass super rendah. Tingkatkan ini untuk lebih banyak gemuruh dan \"dentuman\", kurangi jika suara terlalu gaduh."
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Bas hiper-rendah – Pita pertama untuk frekuensi sangat rendah hingga 20 Hz."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Pusat suara bass. Tingkatkan ini untuk frekuensi suara rendah yang lebih penuh, kurangi jika bass terdengar berlebihan."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Ujung bawah frekuensi suara tengah. Tingkatkan ini untuk membuat vokal terdengar kaya dan hangat, kurangi untuk membantu mengontrol instrumen yang terdengar keras dan teredam."
 "A focal point of the low-mid-range. Increase this to bring out electric guitars and vocal volume, decrease it to reduce any \"boxy\" tones." = "Titik fokus frekuensi menengah kebawah. Tingkatkan ini untuk mengeluarkan suara gitar elektrik dan vokal, kurangi untuk mengurangi nada \"kotak\"."

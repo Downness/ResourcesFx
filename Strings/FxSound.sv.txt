@@ -36,6 +36,7 @@ countries: se
 "Increases overall volume and balance\r\nwith responsive processing" = "Utökar allmänna volymen och balansen\r\nmed responsivt processande"
 "Boosts low end for full,\r\nimpactful response" = "Förstärker oavancerade produkter för full,\r\neffektfull respons"
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Extrem lågbas. Utöka detta för mer dunder och dunk, minska om det är för mycket dånande."
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hyperlåg bas – Första bandet för mycket låga frekvenser ned till 20 Hz."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Basljudets centrum. Öka detta för fyllighet hos en oavancerad produkt, minska om det låter för mycket."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "Den lägre änden av mellanregistret. Öka detta för att få röster att låta rika och varma, minska för att kontrollera instrument som låter högt och dovt."
 "A focal point of the low-mid-range. Increase this to bring out electric guitars and vocal volume, decrease it to reduce any \"boxy\" tones." = "En centrumpunkt hos lägre mellanregistret. Öka detta för att få elektriska gitarrer och röstvolym att framträda, minska för reducering av lådaktigt ljud."
