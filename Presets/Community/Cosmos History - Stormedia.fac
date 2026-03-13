@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-Being - Yelle Yandare
+Cosmos History - Stormedia
 0: Double Params Flag
 1: Total number of elements
-13: Main 0
-25: Main 1
+25: Main 0
+38: Main 1
 0: Main 2
-38: Main 3
-102: Main 4
-89: Main 5
+25: Main 3
+51: Main 4
+76: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Being - Yelle Yandare
 1: On/Off Flag
 Band 1
    62.5: CF
-   7.00787: Boost/Cut
+   5.98425: Boost/Cut
 Band 2
-   141.38: CF
-   4: Boost/Cut
+   120.08: CF
+   6: Boost/Cut
 Band 3
-   188.82: CF
-   4: Boost/Cut
+   223.66: CF
+   12: Boost/Cut
 Band 4
-   478.25: CF
-   -8: Boost/Cut
+   500.48: CF
+   0: Boost/Cut
 Band 5
-   655.75: CF
-   4: Boost/Cut
+   1000: CF
+   6: Boost/Cut
 Band 6
-   1203.66: CF
-   1: Boost/Cut
+   1852: CF
+   0: Boost/Cut
 Band 7
-   2191.07: CF
-   -8: Boost/Cut
+   3429: CF
+   -12: Boost/Cut
 Band 8
-   4836.28: CF
-   4: Boost/Cut
+   6350: CF
+   0: Boost/Cut
 Band 9
-   10408.5: CF
-   -8: Boost/Cut
+   6360: CF
+   -6: Boost/Cut
 Band 10
-   12614.4: CF
-   4: Boost/Cut
+   11768: CF
+   -6: Boost/Cut
