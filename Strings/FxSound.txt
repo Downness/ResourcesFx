@@ -134,3 +134,5 @@ countries: [enter list of 2-character country codes here!]
 "Theme" = "Theme"
 "Dark" = "Dark"
 "Light" = "Light"
+"Output Device Preference" = "Output Device Preference"
+"Select preset" = "Select preset"
