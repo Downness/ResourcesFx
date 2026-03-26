@@ -35,3 +35,28 @@ To contribute a new preset:
 - All contributions are subject to review before merging.
 
 ---
+
+## 📋 Community Guidelines
+
+This is a public repository with no age restrictions. All contributions must be appropriate for a general audience, including minors.
+
+### Preset Names & Content
+
+- **No sexual or adult content** — preset names must not reference sexual acts, pornography, or adult-only themes.
+- **No offensive language** — avoid profanity, slurs, hate speech, or discriminatory language of any kind.
+- **No references to harmful or illegal activity** — preset names must not promote violence, drug use, or illegal acts.
+- **Keep names descriptive and relevant** — preset names should reflect the audio characteristics or intended use case (e.g., genre, mood, device).
+
+### General Conduct
+
+- Be respectful and inclusive toward all community members.
+- Do not impersonate others or misrepresent the origin of a contribution.
+- Spam submissions or bulk uploads of low-quality presets may be removed without notice.
+
+### Enforcement
+
+Contributions that violate these guidelines will be removed. Repeated violations may result in being blocked from contributing to this repository.
+
+If you notice a contribution that violates these guidelines, please [open an issue](../../issues) to report it.
+
+---
