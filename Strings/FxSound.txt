@@ -136,3 +136,6 @@ countries: [enter list of 2-character country codes here!]
 "Light" = "Light"
 "Output Device Preference" = "Output Device Preference"
 "Select preset" = "Select preset"
+"Equalizer" = "Equalizer"
+"Prioritize new output devices" = "Prioritize new output devices"
+"Use Shift+Up or Shift+Down to change the device priority" = "Use Shift+Up or Shift+Down to change the device priority"
