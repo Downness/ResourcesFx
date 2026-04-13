@@ -134,3 +134,6 @@ countries: sl
 "Theme" = "Tema"
 "Dark" = "Temna"
 "Light" = "Svetla"
+"Equalizer" = "Izenačevalnik"
+"Prioritize new output devices" = "Daj prednost novim izhodnim napravam"
+"Use Shift+Up or Shift+Down to change the device priority" = "Uporabite Shift+Up ali Shift+Down za spremembo prioritete naprave"

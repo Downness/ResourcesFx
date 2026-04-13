@@ -136,3 +136,5 @@ countries: ua
 "Light" = "Світла"
 "Output Device Preference" = "Налаштування пристрою виводу"
 "Select preset" = "Вибрати пресет"
+"Prioritize new output devices" = "Надавати пріоритет новим пристроям виводу"
+"Use Shift+Up or Shift+Down to change the device priority" = "Використовуйте Shift+Up або Shift+Down, щоб змінити пріоритет пристрою"

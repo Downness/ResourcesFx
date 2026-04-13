@@ -138,3 +138,6 @@ countries: EG sa
 "Light" = "فاتح"
 "Output Device Preference" = "تفضيلات جهاز الإخراج"
 "Select preset" = "اختيار إعداد مسبق"
+"Equalizer" = "الإكولايزر"
+"Prioritize new output devices" = "إعطاء أولوية لأجهزة الإخراج الجديدة"
+"Use Shift+Up or Shift+Down to change the device priority" = "استخدم Shift+Up أو Shift+Down لتغيير أولوية الجهاز"

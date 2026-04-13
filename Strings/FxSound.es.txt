@@ -136,3 +136,6 @@ countries: ar co es mx
 "Light" = "Claro"
 "Output Device Preference" = "Preferencia de dispositivo de salida"
 "Select preset" = "Seleccionar preajuste"
+"Equalizer" = "Ecualizador"
+"Prioritize new output devices" = "Priorizar nuevos dispositivos de salida"
+"Use Shift+Up or Shift+Down to change the device priority" = "Use Shift+Up o Shift+Down para cambiar la prioridad del dispositivo"
