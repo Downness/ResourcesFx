@@ -134,3 +134,6 @@
 "Light" = "Licht"
 "Output Device Preference" = "Voorkeur voor uitvoerapparaat"
 "Select preset" = "Voorinstelling selecteren"
+"Equalizer" = "Equalizer"
+"Prioritize new output devices" = "Nieuwe uitvoerapparaten prioriteit geven"
+"Use Shift+Up or Shift+Down to change the device priority" = "Gebruik Shift+Up of Shift+Down om de apparaatprioriteit te wijzigen"

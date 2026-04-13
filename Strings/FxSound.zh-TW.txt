@@ -135,3 +135,6 @@ countries: Taiwan
 "Light" = "淺色"
 "Output Device Preference" = "輸出裝置設定"
 "Select preset" = "選擇預設"
+"Equalizer" = "等化器"
+"Prioritize new output devices" = "優先使用新的輸出裝置"
+"Use Shift+Up or Shift+Down to change the device priority" = "使用 Shift+Up 或 Shift+Down 變更裝置優先順序"

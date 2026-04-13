@@ -137,3 +137,6 @@ countries: pl
 "Light" = "Jasny"
 "Output Device Preference" = "Preferencje urządzenia wyjściowego"
 "Select preset" = "Wybierz preset"
+"Equalizer" = "Equalizer"
+"Prioritize new output devices" = "Nadaj priorytet nowym urządzeniom wyjściowym"
+"Use Shift+Up or Shift+Down to change the device priority" = "Użyj Shift+Up lub Shift+Down, aby zmienić priorytet urządzenia"

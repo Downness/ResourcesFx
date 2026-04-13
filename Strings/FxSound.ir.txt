@@ -136,3 +136,6 @@ countries: [IR, FA]
 "Light" = "روشن"
 "Output Device Preference" = "تنظیمات دستگاه خروجی"
 "Select preset" = "انتخاب تنظیم از پیش تعریف‌شده"
+"Equalizer" = "اکولایزر"
+"Prioritize new output devices" = "اولویت دادن به دستگاه‌های خروجی جدید"
+"Use Shift+Up or Shift+Down to change the device priority" = "برای تغییر اولویت دستگاه از Shift+Up یا Shift+Down استفاده کنید"
