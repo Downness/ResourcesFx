@@ -137,3 +137,6 @@ countries: vn
 "Light" = "Sáng"
 "Output Device Preference" = "Tùy chọn thiết bị đầu ra"
 "Select preset" = "Chọn preset"
+"Equalizer" = "Equalizer"
+"Prioritize new output devices" = "Ưu tiên thiết bị đầu ra mới"
+"Use Shift+Up or Shift+Down to change the device priority" = "Sử dụng Shift+Up hoặc Shift+Down để thay đổi mức ưu tiên thiết bị"

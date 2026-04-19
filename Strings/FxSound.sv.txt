@@ -137,3 +137,6 @@ countries: se
 "Light" = "Ljust"
 "Output Device Preference" = "Inställning för utgångsenhet"
 "Select preset" = "Välj förinställning"
+"Equalizer" = "Equalizer"
+"Prioritize new output devices" = "Prioritera nya utgångsenheter"
+"Use Shift+Up or Shift+Down to change the device priority" = "Använd Shift+Up eller Shift+Down för att ändra enhetsprioriteten"

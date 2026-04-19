@@ -137,3 +137,6 @@ countries: hu
 "Light" = "Világos"
 "Output Device Preference" = "Kimeneti eszköz beállítása"
 "Select preset" = "Előbeállítás kiválasztása"
+"Equalizer" = "Equalizer"
+"Prioritize new output devices" = "Új kimeneti eszközök előnyben részesítése"
+"Use Shift+Up or Shift+Down to change the device priority" = "A Shift+Up vagy Shift+Down használatával módosíthatja az eszköz prioritását"

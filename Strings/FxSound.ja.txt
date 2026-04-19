@@ -137,3 +137,6 @@ countries: ja
 "Light" = "ライト"
 "Output Device Preference" = "出力デバイス設定"
 "Select preset" = "プリセットを選択"
+"Equalizer" = "イコライザー"
+"Prioritize new output devices" = "新しい出力デバイスを優先する"
+"Use Shift+Up or Shift+Down to change the device priority" = "Shift+Up または Shift+Down を使用してデバイスの優先順位を変更します"

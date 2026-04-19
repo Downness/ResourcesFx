@@ -136,3 +136,6 @@ countries: de at ch
 "Light" = "Hell"
 "Output Device Preference" = "Einstellung für Ausgabegerät"
 "Select preset" = "Voreinstellung auswählen"
+"Equalizer" = "Equalizer"
+"Prioritize new output devices" = "Neue Ausgabegeräte priorisieren"
+"Use Shift+Up or Shift+Down to change the device priority" = "Verwenden Sie Shift+Up oder Shift+Down, um die Gerätepriorität zu ändern"

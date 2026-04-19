@@ -137,3 +137,6 @@ countries: fr
 "Light" = "Clair"
 "Output Device Preference" = "Préférence du périphérique de sortie"
 "Select preset" = "Sélectionner un préréglage"
+"Equalizer" = "Égaliseur"
+"Prioritize new output devices" = "Prioriser les nouveaux périphériques de sortie"
+"Use Shift+Up or Shift+Down to change the device priority" = "Utilisez Shift+Up ou Shift+Down pour modifier la priorité de l’appareil"
