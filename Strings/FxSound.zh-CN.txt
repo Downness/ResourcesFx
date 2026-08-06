@@ -20,7 +20,7 @@ countries: cn sg
 "Preset %s is deleted." = "预设 %s 已删除。"
 "Presets are restored to factory defaults" = "预设恢复为出厂默认设置"
 "Preset file %s already exists in the export path, do you want to overwrite the preset file?" = "导出路径中已存在预设文件 %s ，是否要覆盖预设文件?"
-"FxSound is %s." = "FxSound 的 %s。"
+"FxSound is %s." = "FxSound %s。"
 "on" = "开启"
 "off" = "关闭"
 "Preset: " = "预设： "
