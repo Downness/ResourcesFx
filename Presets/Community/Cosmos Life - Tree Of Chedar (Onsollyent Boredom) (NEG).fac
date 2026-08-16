@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-Science - Quanzyllyumarrya (By All Work Types And Over Work Types) (NEG)
+Cosmos Life - Tree Of Chedar (Onsollyent Boredom) (NEG)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
-64: Main 1
+13: Main 0
+51: Main 1
 0: Main 2
-127: Main 3
-114: Main 4
-89: Main 5
+102: Main 3
+89: Main 4
+114: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Science - Quanzyllyumarrya (By All Work Types And Over Work Types) (NEG)
 1: On/Off Flag
 Band 1
    62.5: CF
-   7.00787: Boost/Cut
+   8.97638: Boost/Cut
 Band 2
-   157: CF
-   -6: Boost/Cut
-Band 3
-   222.32: CF
-   -3: Boost/Cut
-Band 4
-   540: CF
+   86: CF
    -12: Boost/Cut
+Band 3
+   223.66: CF
+   -12: Boost/Cut
+Band 4
+   480.72: CF
+   -6: Boost/Cut
 Band 5
-   541: CF
+   1000: CF
    0: Boost/Cut
 Band 6
-   1010: CF
+   1852: CF
    0: Boost/Cut
 Band 7
-   2159.73: CF
-   -6: Boost/Cut
-Band 8
-   5738.69: CF
-   -9: Boost/Cut
-Band 9
-   7439.6: CF
-   -6: Boost/Cut
-Band 10
-   15153.6: CF
+   1862: CF
    -3: Boost/Cut
+Band 8
+   3439: CF
+   -3: Boost/Cut
+Band 9
+   11758: CF
+   -9: Boost/Cut
+Band 10
+   16000: CF
+   -10: Boost/Cut

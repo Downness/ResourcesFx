@@ -1,12 +1,12 @@
 CLASS1 : Effect Type
 9: Version
-Science - Quanzyllyumarrya (By All Work Types And Over Work Types) (NEG)
+Life - Zoombers Zoomers (Empty Stars) (NEG)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
-64: Main 1
+102: Main 0
+114: Main 1
 0: Main 2
-127: Main 3
+89: Main 3
 114: Main 4
 89: Main 5
 0: Element Number
@@ -34,28 +34,28 @@ Band 1
    7.00787: Boost/Cut
 Band 2
    157: CF
-   -6: Boost/Cut
+   -9: Boost/Cut
 Band 3
-   222.32: CF
+   223.66: CF
    -3: Boost/Cut
 Band 4
    540: CF
-   -12: Boost/Cut
-Band 5
-   541: CF
-   0: Boost/Cut
-Band 6
-   1010: CF
-   0: Boost/Cut
-Band 7
-   2159.73: CF
-   -6: Boost/Cut
-Band 8
-   5738.69: CF
    -9: Boost/Cut
-Band 9
-   7439.6: CF
-   -6: Boost/Cut
-Band 10
-   15153.6: CF
+Band 5
+   1000: CF
+   -9: Boost/Cut
+Band 6
+   1852: CF
    -3: Boost/Cut
+Band 7
+   3429: CF
+   0: Boost/Cut
+Band 8
+   3439: CF
+   -12: Boost/Cut
+Band 9
+   6360: CF
+   -12: Boost/Cut
+Band 10
+   11768: CF
+   -12: Boost/Cut

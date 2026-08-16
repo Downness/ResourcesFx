@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-Science - Quanzyllyumarrya (By All Work Types And Over Work Types) (NEG)
+Being - Tree Of Chedar (Full View) (NEG)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
-64: Main 1
+51: Main 0
+38: Main 1
 0: Main 2
-127: Main 3
-114: Main 4
-89: Main 5
+38: Main 3
+25: Main 4
+38: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Science - Quanzyllyumarrya (By All Work Types And Over Work Types) (NEG)
 1: On/Off Flag
 Band 1
    62.5: CF
-   7.00787: Boost/Cut
+   2.99213: Boost/Cut
 Band 2
-   157: CF
+   140.67: CF
    -6: Boost/Cut
 Band 3
-   222.32: CF
-   -3: Boost/Cut
+   225: CF
+   -6: Boost/Cut
 Band 4
-   540: CF
-   -12: Boost/Cut
+   414.03: CF
+   -3: Boost/Cut
 Band 5
-   541: CF
-   0: Boost/Cut
+   765.91: CF
+   -6: Boost/Cut
 Band 6
-   1010: CF
+   1422.58: CF
    0: Boost/Cut
 Band 7
-   2159.73: CF
+   3429: CF
    -6: Boost/Cut
 Band 8
-   5738.69: CF
-   -9: Boost/Cut
-Band 9
-   7439.6: CF
+   3439: CF
    -6: Boost/Cut
+Band 9
+   6360: CF
+   -3: Boost/Cut
 Band 10
-   15153.6: CF
+   11768: CF
    -3: Boost/Cut
