@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Being - Tree Of Cheddar (Far Away) (NEG)
+Cosmos Life - Regallexya (Wise And Old) Tzar, King, Ruler Of Cosmos (NEG)
 0: Double Params Flag
 1: Total number of elements
-102: Main 0
+64: Main 0
 76: Main 1
 0: Main 2
-89: Main 3
-114: Main 4
+51: Main 3
+89: Main 4
 114: Main 5
 0: Element Number
    0: Param 0
@@ -33,29 +33,29 @@ Band 1
    62.5: CF
    8.97638: Boost/Cut
 Band 2
-   157: CF
-   -12: Boost/Cut
+   140.67: CF
+   -6: Boost/Cut
 Band 3
-   184.8: CF
-   0: Boost/Cut
+   180.78: CF
+   -3: Boost/Cut
 Band 4
-   414.03: CF
+   498.01: CF
    0: Boost/Cut
 Band 5
-   619.03: CF
-   0: Boost/Cut
+   641.98: CF
+   -6: Boost/Cut
 Band 6
-   1666.76: CF
-   0: Boost/Cut
+   1717.28: CF
+   -9: Boost/Cut
 Band 7
-   2206.74: CF
-   -6: Boost/Cut
+   3131.27: CF
+   0: Boost/Cut
 Band 8
-   3439: CF
-   -6: Boost/Cut
+   3992.09: CF
+   -12: Boost/Cut
 Band 9
-   10840.3: CF
+   10624.4: CF
    -6: Boost/Cut
 Band 10
-   16000: CF
-   -12: Boost/Cut
+   12572.1: CF
+   -9: Boost/Cut

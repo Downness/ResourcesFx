@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Being - Tree Of Cheddar (Far Away) (NEG)
+Black Union - For Cosmos Savers And Builders (NEG)
 0: Double Params Flag
 1: Total number of elements
 102: Main 0
-76: Main 1
+64: Main 1
 0: Main 2
-89: Main 3
-114: Main 4
+102: Main 3
+89: Main 4
 114: Main 5
 0: Element Number
    0: Param 0
@@ -22,7 +22,7 @@ Being - Tree Of Cheddar (Far Away) (NEG)
 0: Number of Application Dependent Strings
 1: Integer[0]
 1: Integer[1]
-1: Integer[2]
+0: Integer[2]
 1: Integer[3]
 1: Integer[4]
 0: Integer[5]
@@ -36,26 +36,26 @@ Band 2
    157: CF
    -12: Boost/Cut
 Band 3
-   184.8: CF
-   0: Boost/Cut
+   266.54: CF
+   -6: Boost/Cut
 Band 4
-   414.03: CF
+   293: CF
    0: Boost/Cut
 Band 5
-   619.03: CF
-   0: Boost/Cut
+   903.61: CF
+   -6: Boost/Cut
 Band 6
-   1666.76: CF
-   0: Boost/Cut
+   1852: CF
+   -3: Boost/Cut
 Band 7
-   2206.74: CF
-   -6: Boost/Cut
+   2191.07: CF
+   -3: Boost/Cut
 Band 8
-   3439: CF
-   -6: Boost/Cut
+   5796.91: CF
+   -3: Boost/Cut
 Band 9
-   10840.3: CF
-   -6: Boost/Cut
+   11758: CF
+   -9: Boost/Cut
 Band 10
-   16000: CF
+   11768: CF
    -12: Boost/Cut

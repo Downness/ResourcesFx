@@ -1,12 +1,12 @@
 CLASS1 : Effect Type
 9: Version
-Being - Tree Of Cheddar (Far Away) (NEG)
+Being - Yorrga De Borrga (Crowned) (NEG) 2.0
 0: Double Params Flag
 1: Total number of elements
 102: Main 0
 76: Main 1
 0: Main 2
-89: Main 3
+102: Main 3
 114: Main 4
 114: Main 5
 0: Element Number
@@ -34,28 +34,28 @@ Band 1
    8.97638: Boost/Cut
 Band 2
    157: CF
-   -12: Boost/Cut
+   -6: Boost/Cut
 Band 3
-   184.8: CF
-   0: Boost/Cut
+   227.68: CF
+   -3: Boost/Cut
 Band 4
    414.03: CF
-   0: Boost/Cut
+   -3: Boost/Cut
 Band 5
-   619.03: CF
-   0: Boost/Cut
+   1000: CF
+   -6: Boost/Cut
 Band 6
-   1666.76: CF
-   0: Boost/Cut
+   1852: CF
+   -12: Boost/Cut
 Band 7
-   2206.74: CF
-   -6: Boost/Cut
+   2629.83: CF
+   -3: Boost/Cut
 Band 8
-   3439: CF
-   -6: Boost/Cut
+   6350: CF
+   0: Boost/Cut
 Band 9
-   10840.3: CF
-   -6: Boost/Cut
+   11758: CF
+   -3: Boost/Cut
 Band 10
    16000: CF
-   -12: Boost/Cut
+   -3: Boost/Cut
