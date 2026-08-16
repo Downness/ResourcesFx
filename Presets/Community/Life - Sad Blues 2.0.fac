@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-American Love (all woofer sound)
+Life - Sad Blues 2.0
 0: Double Params Flag
 1: Total number of elements
 127: Main 0
-127: Main 1
+76: Main 1
 0: Main 2
-127: Main 3
-127: Main 4
-127: Main 5
+102: Main 3
+102: Main 4
+102: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ American Love (all woofer sound)
 1: On/Off Flag
 Band 1
    62.5: CF
-   10: Boost/Cut
+   8.0315: Boost/Cut
 Band 2
-   98.07: CF
+   86: CF
    -3: Boost/Cut
 Band 3
-   223.66: CF
-   7: Boost/Cut
-Band 4
-   293: CF
-   -6: Boost/Cut
-Band 5
-   765.91: CF
-   12: Boost/Cut
-Band 6
-   1649.92: CF
-   -6: Boost/Cut
-Band 7
-   2206.74: CF
+   158: CF
    -3: Boost/Cut
-Band 8
-   5767.8: CF
+Band 4
+   540: CF
    0: Boost/Cut
+Band 5
+   541: CF
+   -6: Boost/Cut
+Band 6
+   1852: CF
+   -12: Boost/Cut
+Band 7
+   3429: CF
+   -12: Boost/Cut
+Band 8
+   3439: CF
+   -6: Boost/Cut
 Band 9
    11758: CF
-   6: Boost/Cut
+   -6: Boost/Cut
 Band 10
-   16000: CF
-   -9: Boost/Cut
+   11768: CF
+   -12: Boost/Cut
